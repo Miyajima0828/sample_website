@@ -1,0 +1,43 @@
+.nav-menu{
+  text-align: right;
+  color: #00f;
+}
+.nav-menu a{
+  text-decoration: none;
+}
+.nav-menu a:visited{
+  color:inherit;
+  
+}  
+.nav-spacing{
+  margin: 0 0 0 10px;
+}
+.image-link{
+  text-decoration: none;
+}
+header{
+  text-align: center; margin: 0 0 80px
+}
+.image-sperm-whales{
+  display: block; margin: 0 auto;
+}
+.image-moby-dick{
+  height:200px;
+  float: left; 
+  margin-right: 40px;
+}
+.begining-of-moby-dick{
+  font-style: italic; font-size: 20px;
+}
+.main-subject{
+  width: 560px; 
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.call-me-Ishmael{
+  font-style: normal;
+  font-size: 24px; 
+  font-weight: bold;
+  color: #f00;
+}
